@@ -49,5 +49,7 @@ def for_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   count= 1..7
   for item in count
+  puts phrase
+end
 end
 
